@@ -9,7 +9,10 @@
 4. `. venv/bin/activate`
 5. `pip install Flask`
 6. `export FLASK_APP=emt_server.py`
-7. `flask run --host=0.0.0.0`
+7. `mkdir image`
+8. `mkdir model`
+9. `mkdir origin_model`
+10. `flask run --host=0.0.0.0`
 
 ### later
 1. `cd emt_server`
