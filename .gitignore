@@ -1,0 +1,6 @@
+model/*
+origin_model/*
+image/*
+__pycache__/*
+venv/*
+.vscode/*
